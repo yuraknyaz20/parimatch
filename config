@@ -1,1 +1,12 @@
-
+{
+  "mode": true,
+  "links": [
+    {
+      "id": 1,
+      "link": "https://google.com"
+    }
+  ],
+  "country_codes": [
+    "PT"
+   ]
+}
